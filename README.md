@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @B6xb
 - 👀 I’m interested in Front and Back-end development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on SoftWare related projects
+- 💞️ I’m looking to collaborate on Software related projects
 - 📫 How to reach me linkedin.com/in/BMutairi/
 
 <!---
