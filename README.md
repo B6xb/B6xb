@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bander Almutairi (@B6xb)
-- 👀 I’m interested in Front and Back-end development
+- 👀 I’m interested in Front and Mobile development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Software related projects
 - 📫 How to reach me linkedin.com/in/BMutairi/
