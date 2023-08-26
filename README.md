@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Bander Almutairi (@B6xb)
-- 👀 I’m interested in Front-End and Mobile development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Software related projects
-- 📫 How to reach me linkedin.com/in/BMutairi/
+You can reach me here linkedin.com/in/BMutairi/
 
 <!---
 B6xb/B6xb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
